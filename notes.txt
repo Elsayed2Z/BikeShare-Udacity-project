@@ -1,0 +1,28 @@
+###  Notes for Bikes share project by Elsayed Elsayed Ibrahim , 21 September 2021
+###
+###  I followed the template in workspace as a guide .
+###  The different variables and objects I created are documented within the code itself.
+###  the code have been tested in python v3.9 , & Jupyter note & pycharm editor & terminal
+###
+###  Here are the support and knowledge I used from internet to finish my project :
+###  
+###   
+###  How to fix the year so it does not appear as a float64:
+###  step 1: https://www.geeksforgeeks.org/how-to-convert-float-to-datetime-in-pandas-dataframe/
+###  step 2: https://stackoverflow.com/questions/25146121/extracting-just-month-and-year-separately-from-pandas-datetime-column
+###  
+###  How to deal with week and month names :
+###  https://www.geeksforgeeks.org/get-day-from-date-in-pandas-python/
+###  https://www.geeksforgeeks.org/python-pandas-series-dt-month_name/
+###  
+###  How to get the maximun appearing label in series & How to get Most frequent values:
+###  https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column/48590361
+###  https://pandas.pydata.org/docs/reference/api/pandas.Series.idxmax.html#pandas.Series.idxmax
+###  
+###  How to use filter for months & week days :
+###  https://www.youtube.com/watch?v=2AFGPdNn4FM
+###
+###  How to extract month from datetime pandas (like day) :
+###  https://www.codegrepper.com/code-examples/python/extract+month+from+datetime+pandas
+###  
+###
